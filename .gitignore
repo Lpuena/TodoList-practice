@@ -3,6 +3,9 @@ node_modules
 /dist
 
 
+# 忽略node_modules文件夹下的所有文件
+node_modules/
+
 # local env files
 .env.local
 .env.*.local
