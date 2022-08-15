@@ -1,4 +1,4 @@
-# demo2
+# TodoList-practice
 
 ## Project setup
 ```
